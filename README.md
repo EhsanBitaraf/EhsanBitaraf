@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 
 # Ehsan Bitaraf
 [![GitHub Badge](https://img.shields.io/github/followers/EhsanBitaraf?style=social)](https://github.com/EhsanBitaraf?tab=followers)
+
 :shipit:
 I am a medical doctor. My research interests are in computer science and the use of information technology in medicine and electronic health records.
+
+
+
 ---
 
 
@@ -47,4 +51,9 @@ I am a medical doctor. My research interests are in computer science and the use
 
 ---
 
-## Technology Interests
+## :hearts:Technology Interests
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
