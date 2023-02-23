@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ---
 
-## GitHub State
+## GitHub Status
 
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EhsanBitaraf&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EhsanBitaraf)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EhsanBitaraf&langs_count=8)
