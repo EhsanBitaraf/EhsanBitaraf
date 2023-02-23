@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 # Ehsan Bitaraf
 [![GitHub Badge](https://img.shields.io/github/followers/EhsanBitaraf?style=social)](https://github.com/EhsanBitaraf?tab=followers)
-
-
+:shipit:
+I am a medical doctor. My research interests are in computer science and the use of information technology in medicine and electronic health records.
 ---
 
 
@@ -29,20 +29,22 @@ Here are some ideas to get you started:
 
 ### Social Network
 [![Twitter Badge](https://img.shields.io/twitter/follow/e_bitaraf?style=social)](https://twitter.com/e_bitaraf)
-
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ehsan-bitaraf-34aa28247/)
 
 ### Scientific Profile
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=52ok0UIAAAAJ&hl=en&oi=ao)
-
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-7FFFD4.svg)](https://www.researchgate.net/profile/Ehsan-Bitaraf)
-
 [![Scopus Badge](https://img.shields.io/badge/Scopus-Profile-FF8C00.svg)](https://www.scopus.com/authid/detail.uri?authorId=56649364200)
 
 ---
 
-## GitHub Status
+## :1234: GitHub Status
 
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EhsanBitaraf&show_icons=true)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EhsanBitaraf&langs_count=3&hide=Dockerfile,shell,html,css,tex)
+
+
+---
+
+## Technology Interests
