@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-7FFFD4.svg)](https://www.researchgate.net/profile/Ehsan-Bitaraf)
 
-[![Scopus Badge](https://img.shields.io/badge/Scopus-Profile-7FFFD4.svg)](https://www.scopus.com/authid/detail.uri?authorId=56649364200)
+[![Scopus Badge](https://img.shields.io/badge/Scopus-Profile-FF8C00.svg)](https://www.scopus.com/authid/detail.uri?authorId=56649364200)
