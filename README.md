@@ -32,7 +32,6 @@ I am a medical doctor. My research interests are in computer science and the use
 ## 📫 How to reach me:
 
 ### Social Network
-[![Twitter Badge](https://img.shields.io/twitter/follow/e_bitaraf?style=social)](https://twitter.com/e_bitaraf)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ehsan-bitaraf-34aa28247/)
 
 ### Scientific Profile
